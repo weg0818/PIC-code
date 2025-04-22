@@ -1,0 +1,6 @@
+[submodule "gbc-master/2d/extra/libs/libigl"]
+	path = gbc-master/2d/extra/libs/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "gbc-master/2d/extra/libs/external/tetgen"]
+	path = gbc-master/2d/extra/libs/external/tetgen
+	url = https://github.com/libigl/tetgen
