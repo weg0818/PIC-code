@@ -4,3 +4,6 @@
 [submodule "gbc-master/2d/extra/libs/external/tetgen"]
 	path = gbc-master/2d/extra/libs/external/tetgen
 	url = https://github.com/libigl/tetgen
+[submodule "PIC3D/ThirdPartyLib/libigl"]
+	path = PIC3D/ThirdPartyLib/libigl
+	url = https://github.com/libigl/libigl.git
